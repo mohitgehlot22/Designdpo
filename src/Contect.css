@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300&display=swap');
+
+.icons{
+    padding: 10px !important;
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50%  !important;
+    font-size: 25px !important;
+    background-color: #315399 !important;
+    color: white;
+}
+.enqirey{
+    width: 100%;
+    border: 1px solid #d2d6df !important;
+    border-radius: 10px;
+}
+.submit{
+    background-color: #315399;
+    border: 0px;
+    border-radius: 10px;
+}
+.submit:hover{
+    background-color: white !important;
+    color: #315399 !important;
+    border: 2px solid #315399 !important;
+}
+input{
+    padding: 8px 25px;
+    margin: 5px;
+    border-radius: 10px;
+    border: 1px solid black !important;
+}
+select{
+    padding: 10px 35px;
+    margin-left: 15px;
+}

@@ -1,0 +1,91 @@
+@media only screen and (min-width: 0px) and (max-width:992px) {
+    
+    .logoimg{
+        width: 120px !important;
+        height: 36px !important;
+    }
+    .textsection1{
+        padding-top: 30px !important;
+        padding-left: 0px !important;
+        font-size: 35px !important;
+        text-align: center;
+    }
+    .nav-tabs{
+        border: 0px !important;
+        overflow-x:scroll;
+        flex-wrap: nowrap !important; 
+      }
+    section{
+        padding:20px  0px !important;
+      }
+    .btnmore{
+        text-align: center;
+        padding: 5px !important;
+    }
+    .carousel{
+        width: 100% !important;
+        height: 100% !important;
+    }
+    .slider1{
+        padding: 10px !important;
+    } 
+    .Getusing ,.Designs{
+        width: 90% !important;
+       font-size: 18px  !important;
+    }
+    .Many {
+        font-size: 18px !important;
+        padding:  0px !important;
+    }
+    .manyp{
+        text-align: center;
+    }
+    .nav-tabs li  button {
+        width:300px !important; 
+    }
+    .section3h{
+        height: auto !important;
+    }
+    .textarea{
+        width: 90% !important;
+        height: 100px;
+        border: 2px solid black;
+    }
+    input{
+        width: 90%;
+        border: 2px solid black !important;
+    }
+    select{
+        width: 90%;
+        margin: 5px !important; ;
+    }
+    .imgmobile{
+        display:none !important;
+    }
+    .sectionfstext{
+        font-size: 30px !important;
+        padding-top: 0px !important;
+    }
+    .explore{
+       margin: 0px !important;
+    }
+    .nav-tabs .nav-link .nav-itme{
+        margin: 0px !important;
+    }
+    .tabimg{
+        width: 100% !important;
+        height: 100% !important; 
+     }
+    .about_heding li{
+        font-size: 18px !important;
+        font-weight: 700 !important;
+    }
+    .about_heding p{
+        font-size: 16px !important;
+        padding-left: 10px !important;
+    }
+    .textsec{
+        text-align: center !important;
+        padding-top:50px !important;
+    }
+}

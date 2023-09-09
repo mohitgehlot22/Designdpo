@@ -1,0 +1,19 @@
+*{
+    font-family: Merriweather,serif;
+}
+p{
+  color: #6d7175 !important;
+  font-size: 16px;
+  font-family: Inter,sans-serif!important;
+}
+ul{
+    padding: 0px !important;
+}
+li{
+    font-size: 1.2rem !important;
+    font-weight: bold;
+    padding: 8px 0px;
+}
+.icon{
+    color: #EC6B6C !important;
+}
